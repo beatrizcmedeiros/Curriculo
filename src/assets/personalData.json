@@ -1,0 +1,102 @@
+{
+  "nome": "Beatriz Campos Medeiros",
+  "profissao": "Programador de Sistemas da Informação",
+  "imagem": "https://avatars.githubusercontent.com/u/65570533?s=400&u=f76cd8bb54c2ac9e975adad1ebe348457d4e17c9&v=4",
+  "idade": 24,
+  "endereco": {
+    "ciadade": "Barbacena",
+    "estado": "MG"
+  },
+  "contatos": {
+    "linkedIn": "https://www.linkedin.com/in/beatrizcsmedeiros/",
+    "github": "https://github.com/beatrizcmedeiros",
+    "whatsApp": "(32) 98475-1370",
+    "email": "beatrizcsmedeiros@gmail.com",
+    "instagram": "@biacampos09"
+  },
+  "idiomas": [
+    {
+      "lingua": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "lingua": "Inglês",
+      "nivel": "Intermediário"
+    }
+  ],
+  "bio": "Sou desenvolvedora backend com habilidades principalmente no desenvolvimento de aplicações utilizando PHP e MySQL, além de conhecimentos em Java, Kotlin, HTML, CSS, Javascript, Python, C e C++. Minha experiência profissional inclui um estágio na área de TI na Rivelli Alimentos, onde atualmente sou contratada como programadora de sistemas de informação. Nessa posição, atuo tanto no suporte quanto no desenvolvimento. Durante meu estágio, tive a oportunidade de aprender e crescer em um ambiente profissional dinâmico, contribuindo para a equipe em projetos e tarefas que eram realizados. Utilizei tecnologias como PHP, MySQL, HTML, CSS e Javascript para desenvolver soluções e atender às necessidades dos projetos. Atualmente, como programadora contratada, continuo a aprimorar minhas habilidades e a aplicar meu conhecimento nos projetos, tendo novos desafios e responsabilidades. Sou apaixonada por desenvolvimento backend e estou sempre buscando aprender novas tecnologias para melhorar ainda mais minhas competências. Além das minhas habilidades técnicas, destaco minha capacidade de trabalhar bem em equipe e comunicar ideias e soluções de forma clara e concisa. Estou comprometida em contribuir para o sucesso dos projetos em que estou envolvida e em proporcionar resultados de alta qualidade.",
+  "experiencias": [
+    {
+      "empresa": "Padaria Sabor de Minas",
+      "dataInicial": "02/2021",
+      "dataFinal": "02/2022",
+      "resumo": "Responsável pelo caixa, lidando diretamente com clientes e fornecedores. Além de auxiliar na organização de mercadorias.",
+      "competencias": [
+        "Atendimento ao cliente",
+        "Pagamento de fornecedores"
+      ]
+    },
+    {
+      "empresa": "Rivelli - Estágio",
+      "dataInicial": "03/2022",
+      "dataFinal": "02/2024",
+      "resumo": "Suporte de usuários, desenvolvimento de páginas web, criação de aplicações utilizando PHP e MySQL, e manutenção de códigos com a implementação de novas funcionalidades. Desenvolvimento de um projeto para melhorar a eficiência na gestão da capacidade dos silos de ração, utilizando leitura ultrassônica com Arduino para medir a quantidade de ração e emitir alertas quando o nível estiver baixo, além de gerar relatórios de consumo para auxiliar no planejamento de envio de ração para as granjas. Também foi desenvolvido outro projeto que utiliza sensores de temperatura para garantir que a água nas linhas da granja esteja na temperatura correta, emitindo alertas para ativar o flush e trocar a água quando necessário, e inclui um medidor de fluxo de água para controlar o consumo.",
+      "competencias": ["Suporte de Usuários", "PHP", "MySql", "Arduino"]
+    },
+    {
+      "empresa": "Rivelli - Programador de Sistemas da Informação",
+      "dataInicial": "02/2024",
+      "dataFinal": "Atualmente",
+      "resumo": "Ampla experiência no desenvolvimento de aplicações, incluindo a criação de soluções utilizando PHP, MySQL, HTML, CSS E JavaScript, bem como a manutenção de códigos existentes e a adição de novas funcionalidades para melhorar continuamente os sistemas. Competência na criação e gerenciamento de usuários, configurações de perfil e acessos no SAP S/4HANA, FIORI e Mtech, garantindo uma administração eficiente e segura dos recursos e dados da empresa, além de extração de dados dos bancos para gerar relatórios, conhecimento de uso de transações internas do sistema e manutenção de informações em tabelas quando necessário.",
+      "competencias": ["Suporte de Usuários", "PHP", "MySql", "SqlServer", "HTML", "CSS", "JavaScript", "SAP S/4HANA", "Fiori", "Mtech"]
+    }
+  ],
+  "escolaridade": [
+    {
+      "instituicao": "IFSEMG - Barbacena",
+      "dataInicial": "2019",
+      "dataFinal": "atualmente",
+      "resumo": "Curso: Tecnologia em Sistemas para Internet"
+    }
+  ], 
+  "projetos": [
+   
+    {
+      "nome": "Plano Financeiro",
+      "resumo": "Aplicação de um plano financeiro, onde o usuário pode gerenciar suas contas e investimentos e obter relatórios sobre.",
+      "link": "https://github.com/beatrizcmedeiros/PlanoFinanceiro.git",
+      "tecnologias": [
+        "Java",
+        "PostgreSql"
+      ]
+    },
+    {
+      "nome": "Jogo de Xadrez",
+      "resumo": "Desenvolvimento de um jogo de xadrez em java dentro do curso feito na Udemy.",
+      "link": "https://github.com/beatrizcmedeiros/Jogo_Xadrez.git",
+      "tecnologias": [
+        "Java"
+      ]
+    },
+    {
+        "nome": "NLW - Aplicação de Certificado",
+        "resumo": "Particpação ma semana NLW da Rocketseat, uma trilha de Java onde foi desenvolvido uma aplicação que gerava certificados.",
+        "link": "https://github.com/beatrizcmedeiros/NLW_AplicacacaoDeCertificacao.git",
+        "tecnologias": [
+          "Java",
+          "Maven",
+          "Spring Boot",
+          "API Rest",
+          "JDBC Template"
+        ]
+      },
+      {
+        "nome": "Autenticação feita com Token",
+        "resumo": "uso de autenticação de dois fatores para fazer login em uma página, primeira autenticação feita com senha e a segunda com um token inserido por pendrive.",
+        "link": "https://github.com/beatrizcmedeiros/AutenticacaoComToken.git",
+        "tecnologias": [
+          "PHP"
+        ]
+      }
+  ]
+}
